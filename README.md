@@ -111,7 +111,7 @@
 - Overview of web development with Python (1 hour)
 - Introduction to web frameworks: Flask (1 hour)
 
-### Lesson 22 (2 hours):
+### [Lesson 22 (2 hours)](l22_flask.md):
 
 - Setting up Flask (1 hour)
 - Creating a simple Flask web application (1 hour)
