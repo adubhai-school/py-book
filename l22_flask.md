@@ -22,7 +22,7 @@ Create a new folder on your computer where you want to store your project files.
 ### Step 3: Write the code
 Open your text editor and create a new file called app.py in the "flask_project" folder. Write the following code in the file:
 
-```
+```python
 from flask import Flask #1
 
 app = Flask(__name__) #2
