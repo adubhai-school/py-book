@@ -2,7 +2,7 @@
 
 ## Introduction and Python Basics
 
-### Lesson 1 (2 hours):
+### [Lesson 1 (2 hours)](intro.md):
 
 - Introduction to Python (1 hour)
 - Setting up the Python environment (1 hour)
